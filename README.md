@@ -18,4 +18,3 @@ Neste projeto foi usado HTML, CSS e JavaScript vanilla (linguagem pura, sem bibl
 - [PROJETO CRIADO PELO "GustavoASIlveira"](https://github.com/GustavoASIlveira/eclipse)
 - [PLAYLIST DO YOUTUBE](https://www.youtube.com/playlist?list=PLclUTiUoLCbDHjxnd4FyliJuVeHS22pAK)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
